@@ -537,7 +537,7 @@ Gets messy quick. **I use a pencil and eraser.**
 Don't forget your key coding interview books [here](#interview-prep-books).
 
 Solving Problems:
-- [How to Find a Solution](https://www.topcoder.com/community/competitive-programming/tutorials/how-to-find-a-solution/)
+- [x] [How to Find a Solution](https://www.topcoder.com/community/competitive-programming/tutorials/how-to-find-a-solution/)
 - [How to Dissect a Topcoder Problem Statement](https://www.topcoder.com/community/competitive-programming/tutorials/how-to-dissect-a-topcoder-problem-statement/)
 
 Coding Interview Question Videos:
